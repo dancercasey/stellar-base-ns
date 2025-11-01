@@ -55,7 +55,7 @@ stellar_sdk = "0.1.4"
 getrandom = { version = "0.2.16", features = ["js"] }
 
 [patch.crates-io]
-stellar-rst = { path = "../stellar-rst" }
+stellar-base = { git = "https://github.com/dancercasey/stellar-base-nsf.git", branch = "main" }
 
 [dev-dependencies]
 hex = "0.4.3"
