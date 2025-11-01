@@ -1,0 +1,3 @@
+[submodule "stellar-rs"]
+    path = stellar-rs
+    url = https://github.com/dancercasey/stellar-rs.git
